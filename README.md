@@ -7,4 +7,4 @@ trustworthiness in its outputs. By integrating SPARQL-driven semantic
 search, HyDE query expansion, and automated experiment template
 generation, the system enables researchers to efficiently identify
 high-impact papers, validate findings via consensus mechanisms, and
-translate insights into actionable protocols within LabArchives ELN.
+translate insights into actionable protocols within SciNote ELN.
